@@ -26,3 +26,6 @@ https://github.com/sanidhyy/duolingo-clone
 https://github.com/simsax/Voice_cloner
 https://github.com/languagetool-org/languagetool
 https://github.com/cmusphinx/cmudict
+
+Math Geogebra:
+https://github.com/geogebra/geogebra/
